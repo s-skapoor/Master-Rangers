@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\minecraft-20210826T010412Z-001"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\Ex_Files_Learning_C"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "minecraft-20210826T010412Z-001"
+	}
+}
